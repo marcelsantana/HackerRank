@@ -1,0 +1,26 @@
+package com.java.ponteiros;
+import java.util.Scanner;
+
+public class Ponteiro {
+
+	public static void main(String[] args) {
+
+		Scanner sc = new Scanner(System.in);
+
+		//New trata de reservar memória o suficiente para o objeto e criar automaticamente uma referência a ele. 
+		Object A = new Object(); 
+		A.setValue("valor qualquer");
+		Object B = A;//Aqui o B aponta para o endereço de memória de A
+		System.out.printf(B.getValue.toString());
+		//Resultado impresso: valor qualquer
+
+		A.setValue("outro valor");
+		System.out.printf(B.getValue.toString());
+		//Resultado impresso: outro valor
+
+		B.setValue("valor posto por B");
+		System.out.printf(B.getValue.toString());
+		//Resultado impresso: valor posto por B
+
+	}
+}
