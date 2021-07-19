@@ -1,5 +1,6 @@
 package com.HackerRank.test;
 import java.io.*;
+
 import java.math.*;
 import java.security.*;
 import java.text.*;
@@ -13,6 +14,7 @@ import static java.util.stream.Collectors.toList;
 import java.net.HttpURLConnection;
 import java.net.URL;
 import org.json.*;
+//import org.json.simple.parser.JSONParser;
 
 
 class Result {
@@ -34,6 +36,8 @@ class Result {
 	 *  Explanation:
 	 *  There are 4 such devices and their rotor speeds are 4721, 4446, 1592 and 4761 respectively
 	 *  Their average rotor speed is (4721 + 4446 + 1592 + 4761) / 4 = 15520/4 = 3880. 
+	 *  
+	 *  https://www.devmedia.com.br/trabalhando-com-json-em-java-o-pacote-org-json/25480
 	 */
 
 	public static int avgRotorSpeed(String statusQuery, int parentId) {
