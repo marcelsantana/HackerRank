@@ -22,6 +22,7 @@ class Result {
 	public static int anagram(String s) {
 
 		// Given a string, split it into two contiguous substrings of equal length
+		// This function return the qt of words in array1 that if changed by array2 becomes an anagram.
 		int mid = s.length() / 2;
 		int count = 0;
 		String[] arr = {s.substring(0, mid), s.substring(mid, s.length())};
