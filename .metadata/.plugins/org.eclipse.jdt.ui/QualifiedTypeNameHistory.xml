@@ -2,4 +2,5 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="jdk.internal.event.Event"/>
     <fullyQualifiedTypeName name="com.sun.tools.javac.parser.JavacParser"/>
+    <fullyQualifiedTypeName name="jdk.nashorn.internal.parser.JSONParser"/>
 </qualifiedTypeNameHistroy>

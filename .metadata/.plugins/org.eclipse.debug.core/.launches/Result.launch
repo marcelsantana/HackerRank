@@ -7,6 +7,8 @@
         <listEntry value="1"/>
     </listAttribute>
     <booleanAttribute key="org.eclipse.jdt.launching.ATTR_EXCLUDE_TEST_CODE" value="true"/>
+    <booleanAttribute key="org.eclipse.jdt.launching.ATTR_USE_CLASSPATH_ONLY_JAR" value="false"/>
     <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="com.HackerRank.anagram.Result"/>
+    <stringAttribute key="org.eclipse.jdt.launching.MODULE_NAME" value="Anagram"/>
     <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="Anagram"/>
 </launchConfiguration>
