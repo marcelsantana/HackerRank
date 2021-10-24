@@ -24,7 +24,6 @@ class Node {
 
 class Solution {
 
-
 	public static void levelOrder(Node root)
 	{
 		Node node = root;
