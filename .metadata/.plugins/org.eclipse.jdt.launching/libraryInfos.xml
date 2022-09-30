@@ -1,6 +1,26 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <libraryInfos>
     <libraryInfo home="C:\Program Files\Java\jdk-12.0.2" version="12.0.2"/>
+    <libraryInfo home="D:\Java\jdk1.8.0_291" version="1.8.0_291">
+        <bootpath>
+            <entry path="D:\Java\jdk1.8.0_291\jre\lib\resources.jar"/>
+            <entry path="D:\Java\jdk1.8.0_291\jre\lib\rt.jar"/>
+            <entry path="D:\Java\jdk1.8.0_291\jre\lib\sunrsasign.jar"/>
+            <entry path="D:\Java\jdk1.8.0_291\jre\lib\jsse.jar"/>
+            <entry path="D:\Java\jdk1.8.0_291\jre\lib\jce.jar"/>
+            <entry path="D:\Java\jdk1.8.0_291\jre\lib\charsets.jar"/>
+            <entry path="D:\Java\jdk1.8.0_291\jre\lib\jfr.jar"/>
+            <entry path="D:\Java\jdk1.8.0_291\jre\classes"/>
+        </bootpath>
+        <extensionDirs>
+            <entry path="D:\Java\jdk1.8.0_291\jre\lib\ext"/>
+            <entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+        </extensionDirs>
+        <endorsedDirs>
+            <entry path="D:\Java\jdk1.8.0_291\jre\lib\endorsed"/>
+        </endorsedDirs>
+    </libraryInfo>
+    <libraryInfo home="D:\Ferramentas RTIL\Tools\Spring Tool - 14.1.x\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_15.0.0.v20201014-1246" version="15"/>
     <libraryInfo home="D:\Java\jdk1.7.0_040" version="1.7.0_40">
         <bootpath>
             <entry path="D:\Java\jdk1.7.0_040\jre\lib\resources.jar"/>
